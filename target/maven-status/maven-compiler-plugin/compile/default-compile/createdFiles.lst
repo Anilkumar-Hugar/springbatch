@@ -1,0 +1,7 @@
+com\springBatch\config\SpringBatchConfig$1.class
+com\springBatch\controller\JobController.class
+com\springBatch\config\CustomerProcessor.class
+com\springBatch\entity\Customer.class
+com\springBatch\BatchProcessingDemoApplication.class
+com\springBatch\repository\CustomerRepository.class
+com\springBatch\config\SpringBatchConfig.class
